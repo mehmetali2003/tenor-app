@@ -1,0 +1,36 @@
+1 days	10	5
+1 days	11	15
+1 days	12	215
+1 days and 3 months	10	20
+1 days and 3 months	11	120
+1 days and 3 months	12	2120
+1 weeks	10	10
+1 weeks	11	110
+1 weeks	12	2110
+1 years	10	35
+1 years	11	135
+1 years	12	2135
+1 years and 6 months	10	40
+1 years and 6 months	11	140
+1 years and 6 months	12	2140
+1 years, 6 months and 2 days	10	45
+1 years, 6 months and 2 days	11	145
+1 years, 6 months and 2 days	12	2145
+1 years, 6 months, 1 weeks and 2 days	10	50
+1 years, 6 months, 1 weeks and 2 days	11	150
+1 years, 6 months, 1 weeks and 2 days	12	2150
+2 years	10	55
+2 years	11	155
+2 years	12	2155
+3 months	10	15
+3 months	11	115
+3 months	12	2115
+3 years	10	60
+3 years	11	160
+3 years	12	2160
+6 months	10	25
+6 months	11	125
+6 months	12	2125
+9 months	10	30
+9 months	11	130
+9 months	12	2130

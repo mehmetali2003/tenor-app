@@ -1,0 +1,36 @@
+10	1 days	5
+10	1 days and 3 months	20
+10	1 weeks	10
+10	1 years	35
+10	1 years and 6 months	40
+10	1 years, 6 months and 2 days	45
+10	1 years, 6 months, 1 weeks and 2 days	50
+10	2 years	55
+10	3 months	15
+10	3 years	60
+10	6 months	25
+10	9 months	30
+11	1 days	15
+11	1 days and 3 months	120
+11	1 weeks	110
+11	1 years	135
+11	1 years and 6 months	140
+11	1 years, 6 months and 2 days	145
+11	1 years, 6 months, 1 weeks and 2 days	150
+11	2 years	155
+11	3 months	115
+11	3 years	160
+11	6 months	125
+11	9 months	130
+12	1 days	215
+12	1 days and 3 months	2120
+12	1 weeks	2110
+12	1 years	2135
+12	1 years and 6 months	2140
+12	1 years, 6 months and 2 days	2145
+12	1 years, 6 months, 1 weeks and 2 days	2150
+12	2 years	2155
+12	3 months	2115
+12	3 years	2160
+12	6 months	2125
+12	9 months	2130
